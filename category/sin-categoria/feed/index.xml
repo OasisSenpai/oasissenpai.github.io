@@ -12,7 +12,7 @@
 	<atom:link href="https://oasissenpai.github.io/category/sin-categoria/feed/" rel="self" type="application/rss+xml" />
 	<link>https://oasissenpai.github.io</link>
 	<description></description>
-	<lastBuildDate>Tue, 26 Dec 2023 16:53:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Dec 2023 14:06:22 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,46 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>Mensaje de bienvenida</title>
+		<link>https://oasissenpai.github.io/2023/12/27/mensaje-de-bienvenida/</link>
+					<comments>https://oasissenpai.github.io/2023/12/27/mensaje-de-bienvenida/#respond</comments>
+		
+		<dc:creator><![CDATA[OasisSenpai]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2023 14:06:22 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://oasissenpai.github.io/?p=58</guid>
+
+					<description><![CDATA[Hola a todos, en esta web publicaré actualizaciones sobre programas que realice como el reciente...]]></description>
+										<content:encoded><![CDATA[
+<p>Hola a todos, en esta web publicaré actualizaciones sobre programas que realice como el reciente para descargar los audios de los videos de YouTube, sirviendo para descargar música de YouTube.</p>
+
+
+
+<ul>
+<li>Enlace al repositorio de GitHub: <a href="https://github.com/OasisSenpai/Download-music-from-YouTube">https://github.com/OasisSenpai/Download-music-from-YouTube</a></li>
+</ul>
+
+
+
+<p>Apreciaría que me siguieses en Threads o Twitter:</p>
+
+
+
+<ul>
+<li>Threads: <a href="https://www.threads.net/@oasissenpai">https://www.threads.net/@oasissenpai</a></li>
+
+
+
+<li>Twitter: <a href="https://twitter.com/oasis_senpai">https://twitter.com/oasis_senpai</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://oasissenpai.github.io/2023/12/27/mensaje-de-bienvenida/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>¡Hola, mundo!</title>
 		<link>https://oasissenpai.github.io/2023/12/26/hola-mundo-2/</link>
 					<comments>https://oasissenpai.github.io/2023/12/26/hola-mundo-2/#comments</comments>
