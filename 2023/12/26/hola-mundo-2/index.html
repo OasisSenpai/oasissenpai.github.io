@@ -46,6 +46,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 <link rel="stylesheet" id="swiper-bundle-css-css" href="https://oasissenpai.github.io/wp-content/themes/blogus/css/swiper-bundle.css?ver=6.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="smartmenus-css" href="https://oasissenpai.github.io/wp-content/themes/blogus/css/jquery.smartmenus.bootstrap.css?ver=6.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="animate-css" href="https://oasissenpai.github.io/wp-content/themes/blogus/css/animate.css?ver=6.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-notice-front-css" href="https://oasissenpai.github.io/wp-content/plugins/cookie-notice/css/front.min.css?ver=2.4.13" type="text/css" media="all">
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/navigation.js?ver=6.4.2" id="blogus-navigation-js"></script>
@@ -55,6 +56,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/sticksy.min.js?ver=6.4.2" id="sticksy-js-js"></script>
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/jquery.smartmenus.js?ver=6.4.2" id="smartmenus-js-js"></script>
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/jquery.smartmenus.bootstrap.js?ver=6.4.2" id="bootstrap-smartmenus-js-js"></script>
+<script async type="text/javascript" id="cookie-notice-front-js-before">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/oasissenpai.github.io\/wp-admin\/admin-ajax.php","nonce":"5b07ee2294","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":false,"cookieName":"cookie_notice_accepted","cookieTime":2592000,"cookieTimeRejected":2592000,"globalCookie":false,"redirection":false,"cache":false,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+/* ]]> */
+</script>
+<script async type="text/javascript" src="https://oasissenpai.github.io/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.13" id="cookie-notice-front-js"></script>
 <link rel="https://api.w.org/" href="https://oasissenpai.github.io/wp-json/">
 <link rel="alternate" type="application/json" href="https://oasissenpai.github.io/wp-json/wp/v2/posts/7">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oasissenpai.github.io/xmlrpc.php?rsd">
@@ -109,7 +116,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 	border-radius: 10px;
 }</style>
 		</head>
-<body class="post-template-default single single-post postid-7 single-format-standard wp-custom-logo wp-embed-responsive  ta-hide-date-author-in-list elementor-default elementor-kit-56">
+<body class="post-template-default single single-post postid-7 single-format-standard wp-custom-logo wp-embed-responsive  ta-hide-date-author-in-list cookies-not-set elementor-default elementor-kit-56">
 <div id="page" class="site">
 <a class="skip-link screen-reader-text" href="#content">
 Ir al contenido</a>
@@ -668,5 +675,14 @@ Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/dark.js?ver=6.4.2" id="blogus-dark-js"></script>
 <script type="text/javascript" src="https://oasissenpai.github.io/wp-content/themes/blogus/js/custom.js?ver=6.4.2" id="blogus_custom-js-js"></script>
 	<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
-	</body>
+	
+		<!-- Cookie Notice plugin v2.4.13 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);">
+<div class="cookie-notice-container" style="color: #fff">
+<span id="cn-notice-text" class="cn-text-container">Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Aceptar" style="background-color: #00a99d">Aceptar</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span>
+</div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+</body>
 </html>
