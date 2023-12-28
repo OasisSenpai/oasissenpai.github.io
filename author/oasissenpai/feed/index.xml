@@ -12,13 +12,21 @@
 	<atom:link href="https://oasissenpai.github.io/author/oasissenpai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://oasissenpai.github.io</link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Dec 2023 14:06:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Dec 2023 18:07:37 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://oasissenpai.github.io/wp-content/uploads/2023/12/1703264826667-1.jpg</url>
+	<title>OasisSenpai &#8211; OasisSenpai&#039;s website</title>
+	<link>https://oasissenpai.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Mensaje de bienvenida</title>
 		<link>https://oasissenpai.github.io/2023/12/27/mensaje-de-bienvenida/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=mensaje-de-bienvenida</link>
@@ -26,7 +34,7 @@
 		
 		<dc:creator><![CDATA[OasisSenpai]]></dc:creator>
 		<pubDate>Wed, 27 Dec 2023 14:06:22 +0000</pubDate>
-				<category><![CDATA[Sin categoría]]></category>
+				<category><![CDATA[Notificación]]></category>
 		<guid isPermaLink="false">https://oasissenpai.github.io/?p=58</guid>
 
 					<description><![CDATA[Hola a todos, en esta web publicaré actualizaciones sobre programas que realice como el reciente...]]></description>
@@ -56,26 +64,6 @@
 					
 					<wfw:commentRss>https://oasissenpai.github.io/2023/12/27/mensaje-de-bienvenida/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>¡Hola, mundo!</title>
-		<link>https://oasissenpai.github.io/2023/12/26/hola-mundo-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hola-mundo-2</link>
-					<comments>https://oasissenpai.github.io/2023/12/26/hola-mundo-2/#comments</comments>
-		
-		<dc:creator><![CDATA[OasisSenpai]]></dc:creator>
-		<pubDate>Tue, 26 Dec 2023 16:53:37 +0000</pubDate>
-				<category><![CDATA[Sin categoría]]></category>
-		<guid isPermaLink="false">https://oasissenpai.github.io/?p=1</guid>
-
-					<description><![CDATA[Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego...]]></description>
-										<content:encoded><![CDATA[
-<p>Te damos la bienvenida a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡luego empieza a escribir!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://oasissenpai.github.io/2023/12/26/hola-mundo-2/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>

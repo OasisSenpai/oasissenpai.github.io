@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>OasisSenpai&#039;s website</title>
-	<atom:link href="https://oasissenpai.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>Notificación &#8211; OasisSenpai&#039;s website</title>
+	<atom:link href="https://oasissenpai.github.io/category/notificaciones/feed/" rel="self" type="application/rss+xml" />
 	<link>https://oasissenpai.github.io</link>
 	<description></description>
 	<lastBuildDate>Thu, 28 Dec 2023 18:07:37 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://oasissenpai.github.io/wp-content/uploads/2023/12/1703264826667-1.jpg</url>
-	<title>OasisSenpai&#039;s website</title>
+	<title>Notificación &#8211; OasisSenpai&#039;s website</title>
 	<link>https://oasissenpai.github.io</link>
 	<width>32</width>
 	<height>32</height>

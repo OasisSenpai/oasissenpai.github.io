@@ -1,0 +1,38 @@
+.bs-card-box.padding-20 {
+  border-radius: 20px;
+}
+
+.bs-breadcrumb-section .overlay {
+  border-radius: 10px;
+}
+
+.bs-info-author-block.py-4.px-3.mb-4.flex-column.justify-content-center.text-center {
+  border-radius: 10px;
+}
+
+.py-4.px-3.mb-4.bs-card-box {
+  border-radius: 10px;
+}
+
+#comments.comments-area.bs-card-box.p-4 {
+  border-radius: 10px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.bs-blog-post.single {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#submit.submit {
+  border-radius: 10px;
+}
+
+#comment {
+  border-radius: 10px;
+}
+
+#wp-block-search__input-1.wp-block-search__input {
+  border-radius: 10px;
+}
